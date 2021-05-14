@@ -9,8 +9,8 @@
 - 📍 From SP 
 
 Reach me out 👇🏼<br><br>
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-barbosa-07b632195/)](mailto:diegobarbosamorim@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-diegobarbosamorim@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegobarboasmorim@gmail.com)](mailto:diegobarbosamorim@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-barbosa-07b632195/)](https://www.linkedin.com/in/diego-barbosa-07b632195/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegobarboasmorim@gmail.com)](mailto:diegobarbosamorim@gmail.com)
 
 <!---
 DiegoBAmorim/DiegoBAmorim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
