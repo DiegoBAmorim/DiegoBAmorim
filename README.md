@@ -1,5 +1,5 @@
 #  <h1><p align="center"> Hey, What's up 👋</p></h1>
-<h3><p align="center">Front-end and React Native Developer</p>
+<h3><p align="center">I'm Front-end and React Native Developer</p>
 </h3> 
 
 - I'm a Computer Engineer, that has been working as a Front-End developer since 2020.  💻
